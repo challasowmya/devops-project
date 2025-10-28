@@ -1,0 +1,17 @@
+{
+  "name": "ai-smart-waste",
+  "version": "1.0.0",
+  "description": "AI-Powered Smart Waste Management System using DevOps Automation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["AI", "DevOps", "WasteManagement", "Automation"],
+  "author": "Challa Sowmya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
